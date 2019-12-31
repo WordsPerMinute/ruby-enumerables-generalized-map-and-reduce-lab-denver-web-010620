@@ -18,7 +18,7 @@ def reduce (source_array, starting_point = nil)
         i += 1
       end
   else
-      starting_point = []
+      starting_point = 0
       memo = starting_point
       while i < source_array.length do
         memo = yield(memo, source_array[i])
