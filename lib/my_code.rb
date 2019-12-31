@@ -9,6 +9,6 @@ def map (array, block) do
   freshArray
 end
 
-reduce do
+def reduce do
 
 end
