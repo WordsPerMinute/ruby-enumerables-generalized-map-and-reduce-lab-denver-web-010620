@@ -1,5 +1,5 @@
 # Your Code Here
-def map (array, block) do
+def map (array, block)
   i = 0
   freshArray = []
   while i < source_array.length do
@@ -9,6 +9,6 @@ def map (array, block) do
   freshArray
 end
 
-def reduce do
+def reduce
 
 end
