@@ -1,5 +1,5 @@
 # Your Code Here
-def map (source_array, block)
+def map (source_array)
   i = 0
   freshArray = []
   while i < source_array.length do
